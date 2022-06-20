@@ -49,7 +49,7 @@ void Console(const char* ConsoleTitle) {
 
 
 void MainFunction() {
-	Console("Print Exploit by Powerful");
+	Console("Printy");
 	do {
 		string OutputString = "";
 		getline(cin, OutputString);
